@@ -37,7 +37,9 @@ CinemaCart is a full-stack movie ticket booking application developed as a four-
 - Java JDK 17+
 - Apache Maven
 
-## Run the Project 🚀
+## ▶️ How to Run
+
+> **Note:** This project requires a Firebase service account key (`serviceAccountKey.json`). The file is not included in this repository for security reasons. Place it in `src/main/resources/` before running the application.
 
 ```bash
 git clone https://github.com/saeed-sekandari/CinemaCart.git
